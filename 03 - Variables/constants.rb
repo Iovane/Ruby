@@ -1,0 +1,8 @@
+PI = 3.14159
+TAX_RATE = 0.22
+
+puts PI
+puts TAX_RATE
+
+# TAX_RATE = 0.25
+# puts TAX_RATE

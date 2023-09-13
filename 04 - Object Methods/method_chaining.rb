@@ -1,0 +1,1 @@
+puts "astalavista".upcase.length.succ
