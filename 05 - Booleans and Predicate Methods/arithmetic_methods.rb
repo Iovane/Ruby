@@ -1,0 +1,5 @@
+puts 1.+(5)
+puts 5.-(4)
+puts 4.*(45)
+puts 65./(10)
+puts 65.div(10)

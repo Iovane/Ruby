@@ -3,4 +3,3 @@ puts "Hello World".upcase
 
 puts "VAFSHE SXVA RAGACA".downcase
 
-mama = "5"
