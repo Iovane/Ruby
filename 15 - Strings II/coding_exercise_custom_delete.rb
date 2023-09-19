@@ -14,8 +14,6 @@
 
 def custom_delete(text, to_delete)
     text.each_char { |character| text.slice!(character) if to_delete.include?(character) }
-
-    text
 end
 
 p custom_delete("cottage cheese", "c")
